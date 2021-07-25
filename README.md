@@ -16,7 +16,7 @@ A Colorado Board of Elections employee tasked me with completing the election au
   - Raymon Anthony Doane received 11,606 votes, or 3.1% of the vote.
 - The winner of the election was Diana DeGette, who received 272,892 votes, or 73.8% of the total votes cast in the congressional district.
 - This is a screenshot of the script's output to election_analysis.txt:
-![Election Results Screenshot.png](Resources/Election Results Screenshot.png)
+![Election Results Screenshot.png](https://github.com/JGGall/Election_Analysis/blob/main/Resources/Election%20Results%20Screenshot.png)
 
 
 ## 3. Election-Audit Summary:
