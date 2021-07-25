@@ -5,7 +5,7 @@ A Colorado Board of Elections employee tasked me with completing the election au
 
 ## 2. Election-Audit Results:
 - There were 369,711 votes cast in this congressional election.
-- The district is compried of three counties:
+- The district is comprised of three counties:
   - Jefferson County had 38,855 votes, which was 10.5% of the total votes cast in the congressional district.
   - Denver County had 306,055 votes, which was 82.8% of the votes.
   - Arapahoe County had 24,801 votes, which was 6.7% of the votes.
