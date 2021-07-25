@@ -4,11 +4,11 @@
 A Colorado Board of Elections employee tasked me with completing the election audit of a congressional election in that state by writing Python code in such a way  as to calculate the total number of votes cast, to provide the number of votes cast in each of the district's counties and the percentage of the total vote cast in each county, to determine which county had the largest number of votes, to determine the number of votes each candidate received and the percentage of total votes each candidate received, and to determine the candidate who won the election, along with that person's vote count and percentage of the total votes cast.
 
 ## 2. Election-Audit Results:
-
+- There were 369,711 votes cast in the election.
 
 ## Summary
 The analysis of the elction shows that:
-- There were 369,711 votes cast in the election.
+
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
