@@ -1,13 +1,7 @@
-# Election_Analysis
+# Election_Analysis: A PyPoll Challenge
 
-## Project Overview
-A Colorado Board of Elections employee gave me the following tasks to complete the election audit of a congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+## Overview of Election Audit
+A Colorado Board of Elections employee tasked me with completing the election audit of a congressional election in that state by writing Python code in such a way  as to calculate the total number of votes cast, to provide the number of votes cast in each of the district's counties and the percentage of the total vote cast in each county, to determine which county had the largest number of votes, to determine the number of votes each candidate received and the percentage of total votes each candidate received, and to determine the candidate who won the election, along with that person's vote count and percentage of the total votes cast.
 
 ## Resources
 - Data Source: election_results.csv
