@@ -16,18 +16,10 @@ A Colorado Board of Elections employee tasked me with completing the election au
   - Raymon Anthony Doane received 11,606 votes, or 3.1% of the vote.
 - The winner of the election was Diana DeGette, who received 272,892 votes, or 73.8% of the total votes cast in the congressional district.
 
-## Summary
-The analysis of the elction shows that:
-
-- The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
-- The candidate results were:
-  - Charles Casper Stockham received 23.0% of the vote, or 85,213 votes.
-  - Diana DeGette received 73.8% of the vote, or 272,892 votes.
-  - Raymon Anthony Doane received 3.1% of the vote, or 11,606 votes.
-- The winner of the election was Diana DeGette, who recieved 73.8% of the vote, or 272,892 votes.
+## 3. Election-Audit Summary:
+The script required to retrieve the election results is a complicated one, but it is very much transferrable to other districts and to other kinds of elections in the state. While the same script would work without alteration in other congressional races, it would need to be modified in other races that take place on election day:
+- 1. State senatorial districts are much smaller than U.S. congressional districts, and state house districts are even smaller still. While they might include portions of two different counties, it would be necessary to modify the code to provide useful information about votes per precinct rather than votes per county.
+- 2. City and school district elections involve candidates who hope to represent even smaller sections of a city (wards, for example) or of a school district, so the code could be modified to capture and analyze information about votes from those smaller geographic areas.
 
 ## Resources
 - Data Source: election_results.csv
